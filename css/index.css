@@ -1,0 +1,47 @@
+body,html{
+    height:100%
+}
+div{
+    display: block;
+}
+nav li{
+    margin: 0 10px;
+}
+
+nav ul{
+    float: right;
+}
+
+nav i{
+    display: inline-block !important;
+    width: auto;
+    margin: 0 10px;
+}
+.pin-container{
+    height:100vh;
+    width: 100vw;
+    overflow: hidden;
+}
+.panel{
+    height: 100vh;
+    width: 100%;    
+}
+#page1{
+    background-color: rgb(8, 223, 169);
+    width: 100%;
+}
+#page2{
+    background-color: #678;
+    width:100%;
+}
+#page3{    
+    background-color: #dfa;
+    width: 100%;
+}
+
+.hello{
+    height: 100vh;
+    width: 100%;
+    display: block;
+    background-color: #000;
+}
